@@ -5,8 +5,8 @@
 `iOS Developer`
 <img src="https://img.shields.io/badge/%23F05138-Swift-orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-`UIKit` , SwiftUI, Combine,  Alamofire, Restful API
-KingFisher, SDWebImage,SnapKit,, Firebase, ARKit
+`UIKit`, `SwiftUI`, `Alamofire`, `Restful API`
+`KingFisher`, `SDWebImage`, `SnapKit`, `Firebase`, `ARKit`
 
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
