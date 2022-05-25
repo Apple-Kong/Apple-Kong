@@ -1,9 +1,10 @@
-## "안녕하세요 춤을 사랑하는 댄서이자, iOS dev. 공태현(Luke)입니다. "
+## "안녕하세요👋 춤을 사랑하는 댄서이자,
+## iOS dev. 공태현(Luke)입니다.😎"
 
 더 많은 사람들이 춤을 즐길 수 있도록, 기술을 활용해 모두를 취미부자로 만드는 것이 제 꿈이자, 행복입니다 
 
 `iOS Developer`
-<img src="https://img.shields.io/badge/%23F05138-Swift-orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 
 `UIKit`, `SwiftUI`, `Alamofire`, `Restful API`
 `KingFisher`, `SDWebImage`, `SnapKit`, `Firebase`, `ARKit`
