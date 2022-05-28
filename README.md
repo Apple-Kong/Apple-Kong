@@ -4,13 +4,14 @@
 더 많은 사람들이 춤을 즐길 수 있도록, 기술을 활용해 모두를 취미부자로 만드는 것이 제 꿈이자, 행복입니다 
 
 `iOS Developer`
-
+<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=#F05138&logoColor=white"/></a>&nbsp
 
 `UIKit`, `SwiftUI`, `Alamofire`, `Restful API`
 `KingFisher`, `SDWebImage`, `SnapKit`, `Firebase`, `ARKit`
 
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
