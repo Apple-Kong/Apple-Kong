@@ -1,5 +1,7 @@
-## "안녕하세요👋 춤을 사랑하는 댄서이자,
-## iOS dev. 공태현(Luke)입니다.😎"
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Luke%20render&fontSize=90)
+
+# "안녕하세요👋 춤을 사랑하는 댄서이자,
+# iOS dev. 공태현(Luke)입니다.😎"
 
 #### 더 많은 사람들이 춤을 즐길 수 있도록, 기술을 활용해 모두를 취미부자로 만드는 것이 제 꿈이자, 행복입니다 
 
