@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Luke%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=blue&height=300&section=header&text=Luke&fontSize=90)
 
 # "안녕하세요👋 춤을 사랑하는 댄서이자,
 # iOS dev. 공태현(Luke)입니다.😎"
