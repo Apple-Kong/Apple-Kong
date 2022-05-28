@@ -4,6 +4,9 @@
 #### 더 많은 사람들이 춤을 즐길 수 있도록, 기술을 활용해 모두를 취미부자로 만드는 것이 제 꿈이자, 행복입니다 
 
 
+<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+
 
 Currently I use...
 
