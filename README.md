@@ -28,6 +28,11 @@ Currently I use...
 `UIKit`, `SwiftUI`, `Alamofire`, `Restful API`
 `KingFisher`, `SDWebImage`, `SnapKit`, `Firebase`, `ARKit`
 
+
+Currently I studying...
+`Combine`, `Core Data`, `Iteractive Design`
+
+
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
