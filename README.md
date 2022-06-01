@@ -29,7 +29,8 @@ Currently I use...
 `KingFisher`, `SDWebImage`, `SnapKit`, `Firebase`, `ARKit`
 
 
-Currently I studying...
+Currently I learning...
+
 `Combine`, `Core Data`, `Iteractive Design`
 
 
