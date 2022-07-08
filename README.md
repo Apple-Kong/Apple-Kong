@@ -22,7 +22,7 @@ Currently I use...
 
 Currently I learning...
 
-`Combine`, `Iteractive Design`
+`Combine`, `Interactive Design`
 
 
 <!--
