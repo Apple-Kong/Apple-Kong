@@ -17,8 +17,8 @@ Currently I use...
 Currently I learning...
 `Combine`, `Interactive Design`
 
-## 블로그 링크
-[루크의 테크 블로그](https://luke-kong.oopy.io)
+## 블로그 링크 🔗
+🔗 [루크의 테크 블로그](https://luke-kong.oopy.io)
 
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
