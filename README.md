@@ -23,7 +23,7 @@ Currently I learning...
 
 ## 블로그 링크
 	
-루크의 테크 블로그 - https://luke-kong.oopy.io
+[루크의 테크 블로그](https://luke-kong.oopy.io)
 
 
 
