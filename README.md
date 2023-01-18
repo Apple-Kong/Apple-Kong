@@ -19,6 +19,7 @@ Currently I learning...
 
 ## 블로그 링크 🔗
 🔗 [루크의 테크 블로그](https://luke-kong.oopy.io)
+🔗 [루크의 칼럼 독서](https://getliner.com/feeds/user/7205664?shareOption=profile)
 
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
