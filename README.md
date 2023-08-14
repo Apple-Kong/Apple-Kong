@@ -1,7 +1,7 @@
-# "안녕하세요👋 춤을 사랑하는 댄서이자, iOS dev. 공태현(Luke)입니다.😎"
+# "안녕하세요👋 춤을 사랑하는 댄서이자, 모바일 dev. 공태현(Luke)입니다.😎"
 
 
-#### 더 많은 사람들이 문화생활을 쉽게 즐길 수 있도록, 기술을 활용해 모두를 취미부자로 만드는 것이 제 꿈이자, 행복입니다 
+#### 더 많은 사람들에게 지속 가능한 즐거움을 주고 싶은 창업가입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apple-Kong)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,11 +11,11 @@ Currently I use...
 <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
-`UIKit`, `SnapKit`, `SwiftUI`, `Restful API`, `Firebase`, `Alamofire`
+`iOS`, `UIKit`, `SwiftUI`, `Swift`, `Flutter`, `Dart`
 
 
-Currently I learning...
-`Combine`, `Interactive Design`
+Currently I m learning...
+`Business`, `Flutter`
 
 ## 블로그 링크 🔗
 🧑🏻‍💻 [루크의 테크 블로그](https://luke-kong.oopy.io)
