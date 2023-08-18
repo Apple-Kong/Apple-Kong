@@ -21,9 +21,9 @@ Currently I m learning...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apple-Kong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 블로그 링크 🔗
-🧑🏻‍💻 [루크의 테크 블로그](https://luke-kong.oopy.io)
+🧑🏻‍💻 [루크 창업 블로그](https://luke-kong.oopy.io)
 
-📝 [루크의 칼럼 독서](https://getliner.com/feeds/user/7205664?shareOption=profile)
+📝 [칼럼 독서](https://getliner.com/feeds/user/7205664?shareOption=profile)
 
 <!--
 **Apple-Kong/Apple-Kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
