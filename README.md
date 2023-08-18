@@ -1,7 +1,7 @@
 # "안녕하세요👋 더 많은 사람들에게 지속 가능한 즐거움을 주고 싶은 창업가. 공태현(Luke)입니다.😎"
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apple-Kong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Currently I use...
 
@@ -16,6 +16,8 @@ Currently I use...
 
 Currently I m learning...
 `Business`, `Flutter`
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apple-Kong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 블로그 링크 🔗
 🧑🏻‍💻 [루크의 테크 블로그](https://luke-kong.oopy.io)
