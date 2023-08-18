@@ -1,7 +1,5 @@
-# "안녕하세요👋 모바일 dev. 공태현(Luke)입니다.😎"
+# "안녕하세요👋 더 많은 사람들에게 지속 가능한 즐거움을 주고 싶은 창업가. 공태현(Luke)입니다.😎"
 
-
-#### 더 많은 사람들에게 지속 가능한 즐거움을 주고 싶은 창업가입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apple-Kong)](https://github.com/anuraghazra/github-readme-stats)
 
